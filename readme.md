@@ -14,7 +14,7 @@
 
       3. 字串函式
    
-      4.常數 Const
+      4. 常數 Const
 
    2. 四則運算
 
@@ -28,7 +28,7 @@
 
       1. If…Then…Else…End If
 
-      2.Select…Case…Else Case…End Select
+      2. Select…Case…Else Case…End Select
 
    5. 迴圈
 
